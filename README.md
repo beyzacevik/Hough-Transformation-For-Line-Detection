@@ -11,7 +11,9 @@ Canny method from 'OpenCV' method for edge detection and .line() method is used 
 
 **Execution**
 
-python run.py  'path_to_dataset_folder! 'path_to_original' 'path_to_detection'
+python run.py  'path_to_dataset_folder' 'path_to_original' 'path_to_detection'
+
+
 
 
 
